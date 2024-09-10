@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Herath</h1>
 <h3 align="center">A Data Science Undergraduate From Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Amazon web services , machine learning , powerbi**
+- 🌱 I’m currently learning **Amazon Web Services , Machine Learning , PowerBI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
